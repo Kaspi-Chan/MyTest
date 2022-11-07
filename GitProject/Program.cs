@@ -8,6 +8,10 @@ namespace GitProject
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine();
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
